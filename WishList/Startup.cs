@@ -37,6 +37,6 @@ namespace WishList
             {
                 endpoints.MapDefaultControllerRoute();
             });
-    }
+        }
     }
 }
